@@ -9,9 +9,6 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
     <title>Halsey {Design}</title>
 
-    <script type="text/javascript">
-    var templateUrl = '<?= get_stylesheet_directory_uri(); ?>';
-    </script>
   
     <?php wp_head(); ?>
   </head>
