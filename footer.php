@@ -1,4 +1,4 @@
-<footer id="footer">
+<footer id="footer" class="main_footerr">
   <div class="footer-logo">
     <img src="<?php echo get_stylesheet_directory_uri(); ?>/images/hd_footer.svg" alt="Halsey Design">
   </div>
